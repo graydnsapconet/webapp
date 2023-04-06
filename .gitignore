@@ -1,0 +1,19 @@
+# Ignore log files
+*.log
+
+# Ignore database files
+*.sqlite
+
+# Ignore user-specific files
+config.php
+
+# Ignore composer files
+/vendor/
+composer.lock
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code files
+.vscode/
